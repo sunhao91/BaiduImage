@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "My app",
-    "slug": "my-app",
+    "name": "BaiduImage",
+    "slug": "BaiduImage",
     "sdkVersion": "21.0.0",
     "privacy": "public"
   }
